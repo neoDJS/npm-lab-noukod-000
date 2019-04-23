@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-noukod-000",
+  "version": "1.0.0",
+  "description": "configure a package.json file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "indexTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoDJS/npm-lab-noukod-000.git"
+  },
+  "author": "learn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neoDJS/npm-lab-noukod-000/issues"
+  },
+  "homepage": "https://github.com/neoDJS/npm-lab-noukod-000#readme"
+}
