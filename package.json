@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "indexTest.js"
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
   },
   "dependencies": {
     "learn-browser": "^0.1.24",
