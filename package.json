@@ -9,6 +9,9 @@
   "scripts": {
     "test": "indexTest.js"
   },
+  "dependencies": {
+    "learn-browser": "^0.1.17"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/neoDJS/npm-lab-noukod-000.git"
