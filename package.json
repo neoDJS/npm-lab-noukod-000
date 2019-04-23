@@ -2,7 +2,7 @@
   "name": "npm-lab-noukod-000",
   "version": "1.0.0",
   "description": "configure a package.json file",
-  "main": "index.html",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
